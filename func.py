@@ -1,4 +1,4 @@
-nombre = "mayita"
+nombre = "Magin Reynaldo"
 apellido = "zapata"
 
 saludo = "Hola "+nombre+" "+apellido+" ¿Cómo estas?"
