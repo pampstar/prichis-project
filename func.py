@@ -1,1 +1,5 @@
-print(2+2)
+nombre = "rey"
+apellido = "zapata"
+
+saludo = "Hola "+nombre+" "+apellido+" ¿Cómo estas?"
+print(saludo)
